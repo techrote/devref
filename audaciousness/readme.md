@@ -4,7 +4,7 @@
 
 ### When using these scripts, exceeding ***2 BILLION*** tokens in **under a week** is easy to do accidentally. 
 
-### Using these scripts in a private repo could cost you $30/day in Actions/CI jobs.
+### Using these scripts in a private repo could cost you >$30/day in Actions/CI jobs.
 
 
 # Use
