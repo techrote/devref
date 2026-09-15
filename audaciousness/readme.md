@@ -17,7 +17,7 @@ They **must** only be used in extensively documented repositories, with robust a
 
 Before using any of these prompts, deep review of all prior work should be carried out and recorded in RAG & issues. Even better, is multiple reviews then independent reconciliation and deduplication of issues including RAG rewrite, for redundancy and potential additional preliminary evidence. This is especially helpful for "fixhard48" as it shows linked problems and offers wider perspectives for planning of investigations and fixes.
 
-# They would also be extremely dangerous in a repo that:
+# They would also be extremely problematic in a repo that:
 
 -Is lacking robust and proven RAG agent instruction frameworks.
 
