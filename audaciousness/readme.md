@@ -1,11 +1,13 @@
-#***WARNING***
-##***THESE WITH UNLIMITED API TOKEN WILL PROBABLY BANKRUPT YOU***
+#WARNING
 
-They **must** only be used with trusted, advanced capability agents, with high reasoning effort.
+##THESE PLUS AN UNLIMITED API TOKEN WILL PROBABLY BANKRUPT YOU
+
+When using these scripts, exceeding ***2 BILLION*** tokens in **a week** is easy to do accidentally. 
+
+They **must** only be used with trusted, advanced capability agents, with high reasoning effort. A custom or modified harness is advised, because if you know then you know. If you don't know then please go back to openflaw and forget this place.
 
 They **must** only be used in extensively documented repositories, with robust and proven RAG agent instruction frameworks.
 
-When using these scripts, exceeding ***2 BILLION*** tokens in **a week** is easy to do accidentally. 
 
 Using these scripts in a private repo could cost you $30/day in Actions/CI jobs.
 
