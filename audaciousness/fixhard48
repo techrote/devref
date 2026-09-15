@@ -2,4 +2,4 @@ Continue the user/repo repair campaign from the latest main/issue/PR state. Work
 
 RRULE:FREQ=HOURLY;COUNT=48
 
-Point at repo full of issues, then every hour, if not still busy with previous work, it starts and attempts to complete the next issue, if it gets stuck it properly records it's work/findings/blocker then attempts the next non-blocked issue. 
+Point at repo full of issues, then for 48 hours, every hour,  if not still busy with previous work, it starts and attempts to complete the next issue, if it gets stuck it properly records it's work/findings/blocker then attempts the next non-blocked issue. 
