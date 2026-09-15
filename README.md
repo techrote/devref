@@ -1,6 +1,6 @@
 # devref
 
-A loose warehouse of reusable, copy-paste-ready instruction fragments for agentic development work.
+A loose warehouse of reusable, copy-paste-ready instruction and attitude fragments for agentic development work.
 
 This repository is **not** a standard, policy framework, specification, requirements set, application guide, or general development ruleset. Nothing here is active by default. The contents are simply useful pieces of promptcraft collected for selective reuse when drafting project briefs, issue prompts, research tasks, review instructions, or autonomous execution runs.
 
