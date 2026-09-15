@@ -1,6 +1,6 @@
-#WARNING
+# WARNING
 
-##THESE PLUS AN UNLIMITED API TOKEN WILL PROBABLY BANKRUPT YOU
+## THESE PLUS AN UNLIMITED API TOKEN WILL PROBABLY BANKRUPT YOU
 
 When using these scripts, exceeding ***2 BILLION*** tokens in **a week** is easy to do accidentally. 
 
