@@ -28,3 +28,6 @@ Before using any of these prompts, deep review of all prior work should be carri
 -Has other agents or contributors making actions simultaneously.
 
 -Has a large amount of unknown bugs, or unknown unknowns.
+
+
+GLHF
