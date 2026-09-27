@@ -1,0 +1,1 @@
+Each child issue is written as a standalone implementation prompt: dependencies, exact required behavior, implementation constraints, mandatory tests, acceptance criteria, and explicit non-goals are all in the issue body. Reference/background detail is kept in the RAG .md files rather than bloating or ambiguating the implementation prompts.
