@@ -6,7 +6,7 @@
 
 # THESE METHODS CONNECTED TO AN UNLIMITED API TOKEN WILL PROBABLY BANKRUPT YOU
 
-### When using these prompts, exceeding ***2 BILLION*** tokens in ***under a week*** is easy, accidentally. 
+### When using these prompts, exceeding ***2 BILLION*** tokens in ***48*** is easy, accidentally.
 
 ### Using these prompts in a private repo could cost you >$30/day in Actions/CI jobs.
 
